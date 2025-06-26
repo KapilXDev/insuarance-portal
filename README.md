@@ -39,18 +39,3 @@ cd backend
 cd frontend
 npm install
 npm start
-
-## 📦 Setup Instructions
-
-```bash
-# Clone the repo
-git clone https://github.com/KapilXDev/insurance-portal.git
-
-# Backend setup (Spring Boot)
-cd backend
-./gradlew bootRun
-
-# Frontend setup (React)
-cd frontend
-npm install
-npm start
