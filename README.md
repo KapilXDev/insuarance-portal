@@ -40,6 +40,8 @@ cd backend
 🚀 [Click here to view the hosted app](https://insurance-app.onrender.com)  
 🖼️ (Coming soon – hosted on Render + Netlify)
 
+---
+
 ## 📸 Screenshots
 
 > Home Page  
@@ -47,6 +49,8 @@ cd backend
 
 > KYC Flow  
 ![KYC](./screenshots/kyc.png)
+
+---
 
 ## 👤 Author
 
@@ -59,3 +63,5 @@ cd backend
 cd frontend
 npm install
 npm start
+
+---
