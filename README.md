@@ -18,7 +18,7 @@ A full-stack web platform to streamline insurance policy purchases, premium calc
 | Layer        | Tech                          |
 |--------------|-------------------------------|
 | Frontend     | React.js + Tailwind + Redux   |
-| Backend      | Spring Boot / Nest.js (clean arch) |
+| Backend      | Spring Boot / Nest.js         |
 | DB & Caching | PostgreSQL, Redis             |
 | Auth & APIs  | JWT, REST/GraphQL             |
 | Infra        | Docker, AWS (EC2/S3), Render  |
@@ -35,33 +35,7 @@ git clone https://github.com/KapilXDev/insurance-portal.git
 cd backend
 ./gradlew bootRun
 
-## 🌐 Live Demo
-
-🚀 [Click here to view the hosted app](https://insurance-app.onrender.com)  
-🖼️ (Coming soon – hosted on Render + Netlify)
-
----
-
-## 📸 Screenshots
-
-> Home Page  
-![Home Page](./screenshots/homepage.png)
-
-> KYC Flow  
-![KYC](./screenshots/kyc.png)
-
----
-
-## 👤 Author
-
-**Kapil Dev**  
-📫 [kapil1singh007@gmail.com](mailto:kapil1singh007@gmail.com)  
-🔗 [GitHub](https://github.com/KapilXDev)  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-
 # Frontend setup (React)
 cd frontend
 npm install
 npm start
-
----
